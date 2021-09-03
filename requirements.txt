@@ -1,0 +1,4 @@
+pip install pytube
+
+https://www.filehorse.com/download-ffmpeg/
+를 다운로드 하여 venv 에 넣기
