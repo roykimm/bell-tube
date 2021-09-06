@@ -3,7 +3,7 @@ import subprocess
 
 import pytube
 
-yt = pytube.YouTube("https://www.youtube.com/watch?v=VUV7BBOn6Q8")
+yt = pytube.YouTube("https://www.youtube.com/watch?v=3WOwa0lWEz4")
 
 vids = yt.streams.all()
 
